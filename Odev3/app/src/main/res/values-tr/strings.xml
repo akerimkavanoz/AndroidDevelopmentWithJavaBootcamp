@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meyve Marketi</string>
+    <string name="yazi1">Üzüm doğal beslenme sağlayacaktır. Organik üzümdeki kimyasal, saç ve cildi daha sağlıklı kılabilir. Kalp sağlığınızı iyileştirebilir.</string>
+    <string name="baslik">Üzüm</string>
+    <string name="baslik2">Beslenme</string>
+    <string name="yazi2">\u2022 Lif</string>
+    <string name="yazi3">\u2022 Potasyum</string>
+    <string name="yazi4">\u2022 C Vitamini</string>
+    <string name="fiyat">28 ₺ / kg</string>
+    <string name="buy">Satın al</string>
+</resources>
